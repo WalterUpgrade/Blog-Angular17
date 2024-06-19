@@ -1,0 +1,11 @@
+/* Estilos para pantallas pequeñas (menos de 768px) */
+@media (max-width: 768px) {
+    .post-list li {
+      flex-direction: column; /* Apilar elementos verticalmente */
+    }
+  
+    .post-list .author-date {
+      margin-top: 10px; /* Añadir margen superior al autor y fecha */
+    }
+  }
+  

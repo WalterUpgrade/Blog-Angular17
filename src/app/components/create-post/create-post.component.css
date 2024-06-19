@@ -1,0 +1,44 @@
+.create-post-form {
+    background-color: #30c222;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+    width: 500px;
+  }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  fieldset {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="date"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+  }
+  .create-post-form button {
+    background-color: rgb(45, 54, 232);
+    cursor: pointer;
+  
+  }
+
+  .letras{
+    color: #f5f5f5;
+  }
+
+  .footer-content{
+    float: left;
+    font-size: 11px;
+  }
